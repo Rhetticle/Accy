@@ -1,0 +1,45 @@
+Added Component: Designator=CR1(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR2(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR3(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR4(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR5(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CR1-1
+Added Pin To Net: NetName=MISO Pin=CR1-2
+Added Pin To Net: NetName=GND Pin=CR2-1
+Added Pin To Net: NetName=CLK Pin=CR2-2
+Added Pin To Net: NetName=GND Pin=CR3-1
+Added Pin To Net: NetName=3V3 Pin=CR3-2
+Added Pin To Net: NetName=GND Pin=CR4-1
+Added Pin To Net: NetName=MOSI Pin=CR4-2
+Added Pin To Net: NetName=GND Pin=CR5-1
+Added Pin To Net: NetName=CS_SD Pin=CR5-2
+Added Member To Class: ClassName=Sheet1 Member=Component CR1 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR2 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR3 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR4 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR5 PESD5V0H1BSNYL

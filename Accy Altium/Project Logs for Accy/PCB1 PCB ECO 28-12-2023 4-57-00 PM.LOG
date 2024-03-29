@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=MEM_CPLT Pin=U1-18
+Removed Pin From Net: NetName=DETECT Pin=U1-20
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Pin To Net: Unknown Pin: Pin CR1-1
+Add Pin To Net: Unknown Pin: Pin CR1-2
+Add Pin To Net: Unknown Pin: Pin CR2-1
+Add Pin To Net: Unknown Pin: Pin CR2-2
+Add Pin To Net: Unknown Pin: Pin CR3-1
+Add Pin To Net: Unknown Pin: Pin CR3-2
+Add Pin To Net: Unknown Pin: Pin CR4-1
+Add Pin To Net: Unknown Pin: Pin CR4-2
+Add Pin To Net: Unknown Pin: Pin CR5-1
+Add Pin To Net: Unknown Pin: Pin CR5-2
+Added Pin To Net: NetName=DETECT Pin=U1-18
+Added Pin To Net: NetName=MEM_CPLT Pin=U1-20
+Add Class Member: Failed to add class member : Component CR1 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR2 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR3 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR4 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR5 PESD5V0H1BSNYL

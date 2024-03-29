@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=DS? NewDesignator=DS3
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Pin To Net: Unknown Pin: Pin CR1-1
+Add Pin To Net: Unknown Pin: Pin CR1-2
+Add Pin To Net: Unknown Pin: Pin CR2-1
+Add Pin To Net: Unknown Pin: Pin CR2-2
+Add Pin To Net: Unknown Pin: Pin CR3-1
+Add Pin To Net: Unknown Pin: Pin CR3-2
+Add Pin To Net: Unknown Pin: Pin CR4-1
+Add Pin To Net: Unknown Pin: Pin CR4-2
+Add Pin To Net: Unknown Pin: Pin CR5-1
+Add Pin To Net: Unknown Pin: Pin CR5-2
+Change Net Name : Old Net Name=NetDS?_1 New Net Name=NetDS3_1
+Add Class Member: Failed to add class member : Component CR1 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR2 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR3 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR4 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR5 PESD5V0H1BSNYL

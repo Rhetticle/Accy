@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=U3 Old Footprint=MCHP-SOIC-SA8_M New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=U3 Old Comment=SST25VF010A-33-4I-SAE New Comment=FLASH 1MBit
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=0EF34F70-CC09-4B4B-B124-03176A59042A New ItemGUID= Old RevisionGUID=B9AA4A03-30A3-4F24-BB29-30EEEC63B5C5 New RevisionGUID=
+Change component parameters: Designator = "U3" ("U3"); Footprint = "MCHP-SOIC-SA8_M"; UniqueID = "\TGUFGDUV" ("\TGUFGDUV")
+Added Component: Designator=D1(SOD323-L_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD323-L_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD323-L_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD323-L_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD323-L_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=MISO Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=CLK Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=3V3 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=MOSI Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=CS_SD Pin=D5-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 DESD5V0U1BA-7
+Added Member To Class: ClassName=Sheet1 Member=Component D2 DESD5V0U1BA-7
+Added Member To Class: ClassName=Sheet1 Member=Component D3 DESD5V0U1BA-7
+Added Member To Class: ClassName=Sheet1 Member=Component D4 DESD5V0U1BA-7
+Added Member To Class: ClassName=Sheet1 Member=Component D5 DESD5V0U1BA-7

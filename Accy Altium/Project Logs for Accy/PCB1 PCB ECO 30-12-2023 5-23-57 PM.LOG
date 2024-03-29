@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=U1 Old Footprint=STM-UFQFPN48_L New Footprint=QFN48
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=FC646D77-F4BE-485C-85F5-D4B97B9D75F5 New ItemGUID= Old RevisionGUID=AC2C5B60-86C6-4AE4-8822-A27481D06A80 New RevisionGUID=
+Change component parameters: Designator = "U1" ("U1"); Footprint = "STM-UFQFPN48_L"; UniqueID = "\UUGNGEKC" ("\UUGNGEKC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00086815.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "D/A Converter"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "I/Os (High Current)"; Value = "36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal RAM Size (kB)"; Value = "64"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F401CBU6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "84"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "UFQFPN48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "48-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 7 x 7 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.7"; VariantName = "[No Variations]"

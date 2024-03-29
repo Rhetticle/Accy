@@ -1,0 +1,27 @@
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Add Pin To Net: Unknown Pin: Pin CR1-1
+Add Pin To Net: Unknown Pin: Pin CR1-2
+Add Pin To Net: Unknown Pin: Pin CR2-1
+Add Pin To Net: Unknown Pin: Pin CR2-2
+Add Pin To Net: Unknown Pin: Pin CR3-1
+Add Pin To Net: Unknown Pin: Pin CR3-2
+Add Pin To Net: Unknown Pin: Pin CR4-1
+Add Pin To Net: Unknown Pin: Pin CR4-2
+Add Pin To Net: Unknown Pin: Pin CR5-1
+Add Pin To Net: Unknown Pin: Pin CR5-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Add Class Member: Failed to add class member : Component CR1 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR2 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR3 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR4 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR5 PESD5V0H1BSNYL

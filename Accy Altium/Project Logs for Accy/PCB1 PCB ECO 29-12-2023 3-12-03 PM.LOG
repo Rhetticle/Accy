@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=OSC_IN Pin=Y1-1
+Removed Pin From Net: NetName=OSC_OUT Pin=Y1-2
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Change Component Footprint: Designator=J2 Old Footprint=FP-PH1RB-04-UA-MFG New Footprint=FP-PH1RB-04-UA-MFG
+Change Component Designator: OldDesignator=ACC NewDesignator=DS5
+Added Component: Designator=CR1(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR2(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR3(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR4(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR5(SOD992B_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD5V0H1BSNYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(FP-ABM8G-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "CSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "80R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "16MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency"; Value = "16 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABM8G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "80R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CR1-1
+Added Pin To Net: NetName=MISO Pin=CR1-2
+Added Pin To Net: NetName=GND Pin=CR2-1
+Added Pin To Net: NetName=CLK Pin=CR2-2
+Added Pin To Net: NetName=GND Pin=CR3-1
+Added Pin To Net: NetName=3V3 Pin=CR3-2
+Added Pin To Net: NetName=GND Pin=CR4-1
+Added Pin To Net: NetName=MOSI Pin=CR4-2
+Added Pin To Net: NetName=GND Pin=CR5-1
+Added Pin To Net: NetName=CS_SD Pin=CR5-2
+Added Pin To Net: NetName=OSC_IN Pin=Y?-1
+Added Pin To Net: NetName=GND Pin=Y?-2
+Added Pin To Net: NetName=OSC_OUT Pin=Y?-3
+Added Pin To Net: NetName=GND Pin=Y?-4
+Added Member To Class: ClassName=Sheet2 Member=Component C19 0.1u
+Added Member To Class: ClassName=Sheet1 Member=Component CR1 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR2 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR3 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR4 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component CR5 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component Y? ABM8G-16.000MHZ-18-D2Y-T

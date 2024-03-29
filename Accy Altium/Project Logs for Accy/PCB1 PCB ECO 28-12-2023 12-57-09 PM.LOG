@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=J? Old Footprint=FP-PH1RB-04-UA-MFG New Footprint=FP-PH1RB-04-UA-MFG
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Add Component: Footprint Not Found SOD992B_NEX
+Added Component: Designator=R5(RESC1609X50X30NL8T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11809/0900766b80d98afc-11809037.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "06/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.575 x 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin CR1-1
+Add Pin To Net: Unknown Pin: Pin CR1-2
+Add Pin To Net: Unknown Pin: Pin CR2-1
+Add Pin To Net: Unknown Pin: Pin CR2-2
+Add Pin To Net: Unknown Pin: Pin CR3-1
+Add Pin To Net: Unknown Pin: Pin CR3-2
+Add Pin To Net: Unknown Pin: Pin CR4-1
+Add Pin To Net: Unknown Pin: Pin CR4-2
+Add Pin To Net: Unknown Pin: Pin CR5-1
+Add Pin To Net: Unknown Pin: Pin CR5-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=NetCD1_10 Pin=CD1-10
+Added Pin To Net: NetName=NetCD1_10 Pin=R5-1
+Added Net: Name=NetCD1_10
+Add Class Member: Failed to add class member : Component CR1 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR2 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR3 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR4 PESD5V0H1BSNYL
+Add Class Member: Failed to add class member : Component CR5 PESD5V0H1BSNYL
+Added Member To Class: ClassName=Sheet1 Member=Component R5 4.7k
