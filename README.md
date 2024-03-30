@@ -10,3 +10,8 @@ Accelerometer module with on board memory to store data an support for micro-SD 
 * Measurement range of +/- 16g for each axis
 * Power consumption of 0.25W
 * Maximum transfer speed to micro-SD card of 19kB/s with SPI clock running at 4MHz
+
+## Hardware Details
+* Microcontroller - STM32F401CBU6
+* External flash memory - SST25VF010A
+* Accelerometer - LIS3DHTR
