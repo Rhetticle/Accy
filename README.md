@@ -9,7 +9,7 @@ Accelerometer module with on board memory to store data an support for micro-SD 
 * 128kB of on-board flash memory allowing for storage of 7000 acceleration measurements for each axis
 * Measurement range of +/- 16g for each axis
 * Power consumption of 0.25W
-* Maximum transfer speed to micro-SD card of 19kB/s with SPI clock running at 4MHz
+* Maximum transfer speed to micro-SD card of 79kB/s with SPI clock running at 4MHz
 
 ## Hardware Details
 * Microcontroller - STM32F401CBU6
